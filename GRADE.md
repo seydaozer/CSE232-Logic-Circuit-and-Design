@@ -1,5 +1,6 @@
 # CSE232
 My Projects for CSE232 (LOGIC CIRCUIT AND DESIGN)
+These projects execute in Logisim.
 
 Project 1:
 Adding the scoreboard to the game was the bonus part.

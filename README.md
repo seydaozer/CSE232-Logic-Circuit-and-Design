@@ -7,7 +7,7 @@ The game starts with the led in the middle turned on.
 One user tries to shift the ON led to left while the other tries to push it to right.
 The one pushing the button faster wins the game. 
 
-Project 2: Dsigning a machine that can compute the multiplication of two numbers without using multiplier. 
+Project 2: Design of a machine that can compute the multiplication of two numbers without using multiplier. 
 Tihs machine takes two 16-bit numbers and compute the multiplication result of these two numbers.
 
 Final Project: implementation of hangman game machine with Logisim

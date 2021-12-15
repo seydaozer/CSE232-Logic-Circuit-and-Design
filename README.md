@@ -1,7 +1,7 @@
 # CSE232
 My Projects for CSE232 (LOGIC CIRCUIT AND DESIGN)
 ```
-Project 1: This will be a game implementation. 
+Project 1: This is a game implementation. 
 In this game, you use 7 LEDs and two buttons for two players.
 The game starts with the led in the middle turned on. 
 One user tries to shift the ON led to left while the other tries to push it to right.
